@@ -1,5 +1,7 @@
 # sample
-
+```
+Using Nuxtjs with Auth0
+```
 ## Project setup
 ```
 yarn install
